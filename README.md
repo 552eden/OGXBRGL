@@ -12,7 +12,7 @@ Guide:
  - If you ever need to disable the plugin - Plugin will detect the tray state during init and unload if it's open.
  
  Current limitations:
- - if "Replace faimily settings with jump to XShell is enabled in RGLoader, attempting to open the guide will crash the console.
+ - if "Replace faimily settings with jump to XShell" is enabled in RGLoader, attempting to open the guide will crash the console.
  - Proto cannot be reloaded after exit of OGXbox games
  - Basically, to exit the OGXbox game you have to shutdown the console. maybe ill fix this in the future, maybe not.
  - if this is not working for you, check the logs and let me know but you probably need to change an address in your RGLoader image. see RGLoader patching instructions
