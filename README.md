@@ -5,6 +5,7 @@ An RGLoader plugin designed to re-enable memory protection on launch of OGXbox g
 This plugin uses Byrom's Halo Sunrise 2 plugin as a template. original code can be found in: https://github.com/Byrom90/Halo_Sunrise_Plugin_2.0
 
 Guide:
+ - Download latest release (https://github.com/552eden/OGXBRGL/release/latest)
  - Place OGXBRGL.xex on root of hdd (or folder of your choice).
  - Configure OGXBRGL.xex as plugin 1 (Optional, configure Proto.xex as plugin 2).
  - Before launching og xbox games first wait for proto to complete authentication (either "Ready to connect to Xbox Live or Authentication failed messages).
