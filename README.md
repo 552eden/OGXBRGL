@@ -9,6 +9,7 @@ Guide:
  - Place OGXBRGL.xex on root of hdd (or folder of your choice).
  - Configure OGXBRGL.xex as plugin 1 (Optional, configure Proto.xex as plugin 2).
  - Before launching og xbox games first wait for proto to complete authentication (either "Ready to connect to Xbox Live or Authentication failed messages).
+ - If you ever need to disable the plugin - Plugin will detect the tray state during init and unload if it's open.
  
  Current limitations:
  - if "Replace faimily settings with jump to XShell is enabled in RGLoader, attempting to open the guide will crash the console.
