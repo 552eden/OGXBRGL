@@ -10,7 +10,7 @@ An RGLoader plugin designed to re-enable memory protection on launch of OGXbox g
 
 This plugin uses Byrom's Halo Sunrise 2 plugin as a template. original code can be found in: https://github.com/Byrom90/Halo_Sunrise_Plugin_2.0
 
-# Old Instructions: (please considerjust using patched rgloader.xex)
+# Old Instructions: (please consider just using patched rgloader.xex)
 
 Guide:
  - Download latest release (https://github.com/552eden/OGXBRGL/release/latest)
