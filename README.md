@@ -1,5 +1,11 @@
 # OGXBRGL - Play OG Xbox Games games on RGLoader with Proto "support"
 
+#DEPRECHATED, MOVED TO: RGLOADER.XEX
+function is now integrated into RGLoader.xex
+
+old (and more common): https://github.com/552eden/RGLoader-XEX
+new (pretty much no one is using it): https://github.com/552eden/RGLoader
+
 An RGLoader plugin designed to re-enable memory protection on launch of OGXbox games. also shuts down Proto so it wont crash the console
 
 This plugin uses Byrom's Halo Sunrise 2 plugin as a template. original code can be found in: https://github.com/Byrom90/Halo_Sunrise_Plugin_2.0
